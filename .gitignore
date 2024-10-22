@@ -1,0 +1,7 @@
+# Env
+.DS_Store
+.idea/
+.env
+
+# Data
+*.pem
